@@ -1,0 +1,9 @@
+[submodule "packages/soda-media-sdk"]
+	path = packages/soda-media-sdk
+	url = https://github.com/meta4d-me/soda-media-sdk
+[submodule "packages/soda-media-3d"]
+	path = packages/soda-media-3d
+	url = https://github.com/meta4d-me/soda-media-3d
+[submodule "packages/m4m-gltf-view"]
+	path = packages/m4m-gltf-view
+	url = https://github.com/meta4d-me/m4m-gltf-view
